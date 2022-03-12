@@ -40,7 +40,7 @@ const Wrap = styled.div`
 const ItemText = styled.div`
     padding-top: 20px;
     // display: flex;
-    `;
+    `; 
 
 const ButtonGroup = styled.div`
     display: flex;
